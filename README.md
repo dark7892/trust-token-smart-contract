@@ -32,7 +32,7 @@ Smart contracts implementing True Gold - a synthetic gold on Ethereum blockchain
 # 🧰 Installation
 In order to compile the contracts first clone the repository. In order to do that run
 ```
-git clone git@github.com:trusttoken/smart-contracts.git
+git clone git@github.com:Cypto-love/smart-contracts.git
 ```
 Then enter `smart-contracts` directory and install all necessary dependencies by running
 ```
